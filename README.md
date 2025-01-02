@@ -1,6 +1,6 @@
 # RideBuddy
 
-A full-stack carpool management system designed to reduce University of Calgary students’ commute times.
+A full-stack carpool management system designed to reduce students’ commute times.
 
 - **Backend:** Built a Java Spring Boot backend, incorporating REST APIs to manage data and communicate with the frontend.
 - **Database:** Stored ride data in a PostgreSQL database, utilizing Docker to containerize the database for consistent development environments.
