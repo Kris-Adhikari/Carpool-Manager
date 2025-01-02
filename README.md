@@ -4,7 +4,7 @@ A full-stack carpool management system designed to reduce University of Calgary 
 
 - **Backend:** Built a Java Spring Boot backend, incorporating REST APIs to manage data and communicate with the frontend.
 - **Database:** Stored ride data in a PostgreSQL database, utilizing Docker to containerize the database for consistent development environments.
-- **Frontend (STILL IN PROGRESS, WILL NOT WORK):** Developing a React frontend with JavaScript (in progress) to provide a user-friendly interface. Uses NextUI components for UI.
+- **Frontend (Still in progress, won't work):** Developing a React frontend with JavaScript (in progress) to provide a user-friendly interface. Uses NextUI components for UI.
 
 ---
 
@@ -25,7 +25,7 @@ Before running this project, ensure you have the following installed:
 2. Update application.properties in src/resources with PostgreSQL creds
 3. Run application
 
-### Frontend (STILL IN PROGRESS, WILL NOT WORK):
+### Frontend (Still in progress, won't work):
 1. Open up frontend
 2. Run npm install
 3. Run npm start at whatever the local host URL is
