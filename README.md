@@ -1,10 +1,9 @@
 # RideBuddy
 
-A full-stack carpool management system designed to reduce students’ commute times.
+A backend for a carpool management system designed to reduce students’ commute times.
 
-- **Backend:** Built a Java Spring Boot backend, incorporating REST APIs to manage data and communicate with the frontend.
+- **Backend:** Built a Java Spring Boot backend, incorporating REST APIs for communication with a possible frontend
 - **Database:** Stored ride data in a PostgreSQL database, utilizing Docker to containerize the database for consistent development environments.
-- **Frontend (Still in progress, won't work):** Developing a React frontend with JavaScript (in progress) to provide a user-friendly interface. Uses NextUI components for UI.
 
 ---
 
@@ -12,7 +11,6 @@ A full-stack carpool management system designed to reduce students’ commute ti
 
 Before running this project, ensure you have the following installed:
 - **Java Development Kit (JDK)**: Version 8 or higher
-- **Node.js**: Includes npm (Node Package Manager)
 - **PostgreSQL Database**
 - **Docker**: Optional, for database containerization
 
@@ -25,10 +23,4 @@ Before running this project, ensure you have the following installed:
 2. Update application.properties in src/resources with PostgreSQL creds
 3. Run application
 
-### Frontend (Still in progress, won't work):
-1. Open up frontend
-2. Run npm install
-3. Run npm start at whatever the local host URL is
 
-### UI preview
-![Image](https://github.com/user-attachments/assets/8ada71ef-6aa3-4196-96e0-0bfbdf4a5a07)
